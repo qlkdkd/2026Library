@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
     # api url 접근용 딕셔너리
     params = {
-    'authKey': 'af2db8effb80ec1510ae55194a4ee4a8eff2018a0fbe806e9c475d80e27e2f18',  # 도서관정보나루에서 발급받은 Key
+    'authKey': '_______________________________________',  # 도서관정보나루에서 발급받은 Key
     'startDt': '2026-05-01',
     'endDt': '2026-05-31',
     'pageNo': '1',
