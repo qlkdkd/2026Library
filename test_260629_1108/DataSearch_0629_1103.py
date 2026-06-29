@@ -54,7 +54,7 @@ class DataSearcher:
         }
 
         # 인증키
-        self.authKey = 'af2db8effb80ec1510ae55194a4ee4a8eff2018a0fbe806e9c475d80e27e2f18'
+        self.authKey = ''
 
         # 도서관 정보
         self.libDf = pd.read_csv('./resource/library_list.csv')
