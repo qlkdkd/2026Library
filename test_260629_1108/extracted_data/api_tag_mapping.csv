@@ -1,0 +1,20 @@
+api_key_name,parent_tag,target_tag,paging
+정보공개,libs,lib,False
+도서관별 장서/대출 데이터 조회,docs,doc,True
+인기대출도서 조회,docs,doc,True
+마니아 추천도서,books,book,False
+다독자 추천도서,books,book,False
+도서 상세 조회,docs,doc,False
+도서 키워드 목록,keywords,keyword,False
+도서별 이용 분석,coDocs,coDoc,False
+도서관/지역별 인기대출 도서 조회,docs,doc,True
+도서관별 대출반납추이,histories,history,True
+도서관별 도서 소장여부 및 대출 가능여부 조회,result,loanAvailable,False
+대출 급상승 도서,docs,doc,False
+도서 소장 도서관 조회,libs,lib,True
+도서관별 통합정보,libs,lib,True
+도서관별 인기대출도서 통합,docs,doc,True
+도서 검색,docs,doc,True
+이달의 키워드,keywords,keyword,False
+지역별 독서량/독서율,results,result,False
+신착 도서 목록,docs,doc,True
